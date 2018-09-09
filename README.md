@@ -4,7 +4,7 @@
 This is a repo for the project,which is used for my leetcode training.
 
 ### Content
-1. src: for cpp source file;
-2. still_working: for problems still solving;
-3. done: for problems waited to be commited.
+1. src: for cpp source files;
+2. still_working: for problems I still solving;
+3. done: for problems solved but wait to be commited.
 
